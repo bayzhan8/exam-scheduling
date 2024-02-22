@@ -1,4 +1,4 @@
-# exam-scheduling
+# Final Exam Scheduling @ Rice University
 The current manual process of creating the final exam schedule at Rice University's registrar's office is both time-consuming for staff and problematic for students. Every semester, it takes more than 8 hours to come up with a
 schedule, which usually has shortcomings that negatively impact the student experience. For example, it can lead to an unfair distribution of exams, where some students have to take multiple exams on the same day, while others have 
 more time to prepare and relax. In other cases, it can cause inconvenience for students who are forced to remain on campus for an extra week only to take one exam. Additionally, scheduling exams in inconvenient classrooms can cause
